@@ -1,0 +1,32 @@
+body{
+	background-color: #CCCCCC;
+}
+#login,#regist{
+	background-color: #fff;
+	padding:20px;
+	width: 300px;
+
+}
+.login-top{
+	border-bottom: 1px solid #ccc;
+	padding: 10px;
+}
+.input-all{
+	padding: 10px;
+	display: flex;
+}
+.input-left{
+	width: 30%;
+	text-align: right;
+}
+.input-all input{
+	display: inline-block;
+}
+.buttom{
+	background-color: orange;
+	color:#fff;
+	padding: 5px;
+	text-align: center;
+	width: 80%;
+	margin-left: 10%;
+}
